@@ -17,7 +17,7 @@ For example on a current Mac installation in a terminal after cloning this repo.
 # Using
 Reading the Murdle Puzzle page use the Pygame grid to record your guesses rather than using a paper, pen or pencil.<br>
 On each square type either 'Y' or 'N' to change the colour to 'Green' or 'Red' accordingly to get to your culprit.<br>
-The axis are labbelled S1-S3, L1-L3 and W1-3 for Suspects, Locations and Weapons.<br>
+The axis are labbelled S1-S3, L1-L3 and W1-W3 for Suspects, Locations and Weapons.<br>
 Press the 'RESET' button to clear the grid.<br>
 
 # Inspiration
