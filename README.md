@@ -16,7 +16,7 @@ The axis are labbelled S1-S3, L1-L3 and W1-3 for Suspects, Locations and Weapons
 Press the 'RESET' button to clear the grid.
 
 # Inspiration
-This is a quick and simple program to start learning the Pygame module as I didn't want to use a pencil in my new [Murdle](https://www.reddit.com/r/books/comments/14egqqw/i_made_murdlecom_an_online_murdermystery_puzzle/) game book or waste paper elsewhere.  There are other online versions of the game and more detailed puzzles not covered by the simple grid used here.  But something I might do once I get to those !
+This is a quick and simple program to start learning the Pygame module as I didn't want to use a pencil in my new [Murdle](https://www.waterstones.com/book/murdle/g-t-karber/9781800818026) game book or waste paper elsewhere.  There are other online versions of the game and more detailed puzzles not covered by the simple grid used here.  But something I might do once I get to those !
 
 # License
 GNU General Public License v3.0 or later
