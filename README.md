@@ -6,4 +6,4 @@ Pygame Murdle Grid - (simple Pygame grid to track playing a basic Murdle game).
 # License
 GNU General Public License v3.0 or later
 
-See COPYING to see the full text.
+See COPYING](COPYING) to see the full text.
