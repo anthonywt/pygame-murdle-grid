@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
 
+# -*- coding: utf-8 -*-
+"""pygame-murdle-grid-simple.py
+
+Simple pygrame grid to use with simple Murdle puzzles.
+
+"""
+
 import pygame
 from pygame.locals import *
-from sys import exit
 
 
 def reset_rect():
@@ -108,7 +114,6 @@ screen.blit(w3txt, w3)
 pygame.draw.line(screen, 'red', (0, 365), (700, 365), 2)
 pygame.draw.line(screen, 'red', (365, 0), (365, 700), 2)
 pygame.display.flip()
-
 
 reset_rect()
 
@@ -315,4 +320,3 @@ while running:
           reset_rect()
    pygame.display.update()
 pygame.quit()
-
